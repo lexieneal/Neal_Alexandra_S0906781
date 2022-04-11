@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Student Name: Alexandra Neal  -->
+<!--  Student ID: S0906781          -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#00000000" />
+    <stroke android:width="2dp"
+        android:color="#94a4b8" />
+    <corners
+        android:radius="0dp"/>
+</shape>

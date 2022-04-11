@@ -1,0 +1,10 @@
+<!--  Student Name: Alexandra Neal  -->
+<!--  Student ID: S0906781          -->
+
+<resources>
+
+    <style name="ImportedFont">
+        <item name="fontFamily">@font/montserrat_medium</item>
+    </style>
+
+</resources>
